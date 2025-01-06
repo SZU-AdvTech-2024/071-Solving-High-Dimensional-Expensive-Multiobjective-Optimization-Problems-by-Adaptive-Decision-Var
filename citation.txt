@@ -1,8 +1,6 @@
 @article{REPO071,
     author = "Li, Yingwei and Feng, Xiang and Yu, Huiqun",
-    doi = "10.1109/TEVC.2024.3383095",
     journal = "IEEE Transactions on Evolutionary Computation",
-    keywords = "Evolutionary computation;Optimization;Iron;Vectors;Statistics;Sociology;Convergence;Surrogate-assisted evolutionary algorithm;expensive optimization;decision variable grouping;multiobjective optimization",
     number = "",
     pages = "1-1",
     title = "{Solving High-Dimensional Expensive Multiobjective Optimization Problems by Adaptive Decision Variable Grouping}",
